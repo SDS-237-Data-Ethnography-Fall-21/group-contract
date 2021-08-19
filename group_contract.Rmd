@@ -1,0 +1,136 @@
+---
+title: "Group Contract"
+date: Sys.Date()
+output: pdf_document
+---
+
+# SDS 237 GROUP CONTRACT	
+
+Working in groups can be both incredibly rewarding and incredibly challenging. The most effective collaborations explicitly outline group roles, expectations, and procedures in advance to coordinate how the group will operate, to establish mechanisms of accountability, and to mitigate the risk of conflict. It is important that, throughout the semester, you address group concerns as they come up. This may involve assigning someone to check in with team members that are falling behind, establishing expectations for attending office hours and asking for help, calling team meetings to discuss issues, or reaching out to the instructor to resolve enduring and unresolved conflicts.		
+
+# CONTACT INFORMATION
+
+|Names   |  Emails |
+|---|---|
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+
+# ROLES
+
+Who will be responsible for scheduling meetings and hosting Zoom calls? 
+
+
+Who will be responsible for facilitating discussion during team meetings?
+
+
+Who will be responsible for taking notes and recording decisions during meetings?
+
+
+Who will be responsible for emailing the professor with questions?
+
+
+Who will be responsible for requesting group assignment extensions?
+
+
+Who will be responsible for setting deadlines for drafts? 
+
+
+Who will be responsible for checking in with team members when drafts are late?
+
+
+Who will be responsible for reviewing all materials before submission?
+
+
+Who will be responsible for submitting assignments?
+
+
+
+# COLLABORATIVE WORKSPACES
+
+Where will the team keep meeting notes? 
+
+
+Where will the team store drafts of assignments? 
+
+
+Through what channels will the team communicate when not meeting?
+
+
+What is the expected response time for emails and messages? 
+
+
+
+# MEETINGS
+
+How often will the team meet? 
+
+
+What days/times will the team meet?
+
+
+How long will meetings be?
+
+
+How will you make decisions during meetings (e.g. consensus, a vote)?
+
+		
+What strategies will you use to stay on task during meetings?
+
+
+How should team members inform each other if they are going to be late to a meeting?
+
+			
+When is it ok for a team member to skip a meeting? How soon should they inform the group?
+
+
+What will you do if a group member is chronically absent from or late to meetings?
+
+
+What will you do if a group member is consistently not participating in meetings?
+
+
+What are your expectations for respectful engagement and communication during meetings and in collaborative workspaces? What will you do if a member of your team does not meet these expectations?
+
+
+
+# ASSIGNMENTS
+How will you ensure that all team members fully understand assignment expectations? What will you do if your team is unsure how to complete an assignment?
+
+
+How will you ensure that all team members are contributing equitably to assignments?
+
+
+How soon in advance of deadlines do you expect all team members to share drafts of their work?
+
+
+What will be your process for reviewing each other’s work before submission?
+
+
+What will you do if the quality of a team member’s work does not meet the group’s expectations? When is it permissible to revise another team member’s work?
+
+
+What are your expectations around punctuality regarding group deadlines? How should team members inform each other if they need an extension?
+
+
+What will you do if a student is consistently late in submitting draft work?
+
+
+What will you do if you discover that a team member’s work violates the Academic Code of Conduct?
+
+
+# SIGNATURES
+
+* I participated in drafting the standards, roles, and procedures outlined in this document.
+* I agree to abide by the terms and conditions outlined in this document.			
+* I understand that failing to abide by the terms and conditions outlined in this document may impact my grade.
+ 							
+Signature:
+Date: 
+Signature:
+Date: 
+Signature:
+Date:
+Signature:
+Date:
