@@ -10,12 +10,12 @@ Working in groups can be both incredibly rewarding and incredibly challenging. T
 
 # CONTACT INFORMATION
 
-|Names   |  Emails |
-|---|---|
-|   |   |
-|   |   |
-|   |   |
-|   |   |
+|Names|Emails|
+|-----|-----|
+| FILL ME | FILL ME |
+| FILL ME | FILL ME |
+| FILL ME | FILL ME |
+| FILL ME | FILL ME |
 
 # ROLES
 
@@ -128,9 +128,15 @@ What will you do if you discover that a team member’s work violates the Academ
  							
 Signature:
 Date: 
+
 Signature:
 Date: 
+
 Signature:
 Date:
+
 Signature:
 Date:
+
+
+
